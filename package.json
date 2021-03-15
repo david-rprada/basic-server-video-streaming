@@ -7,9 +7,9 @@
     "dev": "nodemon server2.js",
     "start": "node server.js"
   },
-  "name": "video-streaming",
+  "name": "basic-server-video-streaming",
   "version": "1.0.0",
-  "description": "HTTP server for video streaming",
+  "description": "Basic http server for video streaming",
   "main": "server.js",
   "devDependencies": {},
   "keywords": [
