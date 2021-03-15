@@ -15,4 +15,4 @@ npm install
 npm run dev
 ```
 
-5) Ejecutar en el navegador la API Rest: http://localhost:8000
+5) Abrir en el navegador: http://localhost:8000
